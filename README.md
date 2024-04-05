@@ -1,5 +1,5 @@
 ### Hola 👋, Mi nombre es Charlotte Rojas Padilla
-#### Soy estudiante de Informática Empresarial en la Universidad de Costa Rica, Sede del Carible, Recinto de Siquirres.
+#### Soy estudiante de Informática Empresarial en la Universidad de Costa Rica, Sede del Caribe, Recinto de Siquirres.
 He aprendido habilidades tanto blandas como técnicas a lo largo de mi formación como estudiante en la carrera de Informática Empresarial, lo que me ha permitido un crecimiento tanto personal como profesional. Siempre con un deseo constante de aprendizaje y superación, buscando nuevos retos y oportunidades para crecer.
 
 Habilidades: Laravel / Bootstrap / JS / HTML / CSS / 
