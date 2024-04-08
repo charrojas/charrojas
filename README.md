@@ -44,7 +44,7 @@ He aprendido habilidades tanto blandas como técnicas a lo largo de mi formació
 
 
 <div align="left">
-  <h2>📊 ACTIVITY 📊</h2>
+  <h2>📊 Actividad 📊</h2>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charrojas&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
