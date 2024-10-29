@@ -16,15 +16,8 @@ He aprendido habilidades tanto blandas como técnicas a lo largo de mi formació
 <div align="left">
     <h2>📖 Lenguajes y herramientas 🛠 </h2>
     <div style="border: 1px solid #e5e7eb; padding: 10px; display: inline-block;">
-        <img src="https://img.shields.io/badge/Audacity-000000?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity"/>
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
-        <img src="https://img.shields.io/badge/Netbeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Netbeans"/>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-        <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-        <img src="https://img.shields.io/badge/Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="Workbench"/>
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-        <img src="https://img.shields.io/badge/Shotcut-1CC3F1?style=for-the-badge&logo=shotcut&logoColor=white" alt="Shotcut"/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -37,9 +30,18 @@ He aprendido habilidades tanto blandas como técnicas a lo largo de mi formació
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
         <img src="https://img.shields.io/badge/Responsive%20Web%20Design-31A8FF?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design"/>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Audacity-000000?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity"/>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+        <img src="https://img.shields.io/badge/Netbeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Netbeans"/>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+        <img src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="Workbench"/>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+        <img src="https://img.shields.io/badge/Shotcut-1CC3F1?style=for-the-badge&logo=shotcut&logoColor=white" alt="Shotcut"/>
         <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
         <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     </div>
 </div>
 
