@@ -10,6 +10,7 @@
 
 He aprendido habilidades tanto blandas como técnicas a lo largo de mi formación como estudiante en la carrera de Informática Empresarial, lo que me ha permitido un crecimiento tanto personal como profesional. Siempre con un deseo constante de aprendizaje y superación, buscando nuevos retos y oportunidades para crecer.
 
+- 📫 Contacto: <a href="https://charrojasp@gmail.com">https://charrojasp@gmail.com</a>
 </div>
 
 <div id="Badges" align="left">
