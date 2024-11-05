@@ -1,17 +1,26 @@
-<div align="center">
+<div align="left">
 
-### Hola 👋, Mi nombre es Charlotte Rojas Padilla
+<h1 align="center"><b>Hola, Mi nombre es Charlotte Rojas Padilla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
 #### Soy egresada de Informática Empresarial en la Universidad de Costa Rica, Sede del Caribe, Recinto de Siquirres.
 
 He aprendido habilidades tanto blandas como técnicas a lo largo de mi formación como estudiante en la carrera de Informática Empresarial, lo que me ha permitido un crecimiento tanto personal como profesional. Siempre con un deseo constante de aprendizaje y superación, buscando nuevos retos y oportunidades para crecer.
 
 </div>
 
-<div id="Badges" align="Center">
-    <a href="https://www.linkedin.com/in/charlotte-rojas-padilla-26b50a2bb/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div id="Badges" align="left">
+    <a href="mailto:charrojasp@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/charrojas/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
+
 
 <div align="left">
     <h2>📖 Lenguajes y herramientas 🛠 </h2>
