@@ -13,9 +13,6 @@ He aprendido habilidades tanto blandas como técnicas a lo largo de mi formació
 </div>
 
 <div id="Badges" align="left">
-    <a href="charrojasp@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/charrojas" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
